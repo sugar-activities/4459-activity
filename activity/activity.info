@@ -1,0 +1,8 @@
+[Activity]
+name      = Image Processor
+license   = GPLv2+
+icon      = activity-imageprocessor
+exec      = sugar-activity ImageProcessorActivity.ImageProcessorActivity
+mime_types = image/bmp;image/gif;image/jpeg;image/png;image/tiff;image/svg+xml
+activity_version = 8
+bundle_id = org.laptop.ImageProcessorActivity
